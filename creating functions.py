@@ -18,7 +18,7 @@ hello_msg()
 #---------------------------------------------
 def bye_msg(name):
     print("Bye bye",name+"!")
-    print("Was nice to meeting you")
+    print("It was nice to meet you")
 
 bye_msg("Alu")
 bye_msg("Ewo")
